@@ -1,0 +1,43 @@
+{
+    "log": {
+        "loglevel": ""
+    },
+    "inbounds": [
+        {
+            "port": ,
+            "listen": "",
+            "protocol": "",
+            "settings": {
+                "udp": 
+            }
+        }
+    ],
+    "outbounds": [
+        {
+            "protocol": "vmess",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "",
+                        "port": ,
+                        "users": [
+                            {
+                                "id": "",
+                                "alterId": ,
+                                "security": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "",
+                "tcpSettings": {
+                    "header": {
+                        "type": ""
+                    }
+                }
+            }
+        }
+    ]
+}
