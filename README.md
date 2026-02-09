@@ -1,3 +1,6 @@
+![Workflow Diagram](assets/automation.jpg)
+
+
 ## Overview
 This project is a set of side projects which focuse on routine problems in my life. I tried to atoumate them and spend less time on things which are not useful enough for me. Also I appreciate furthur suggestion which you find useful to complete this project: alireza6836812@gmail.com
 
