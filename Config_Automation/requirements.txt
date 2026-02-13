@@ -1,0 +1,33 @@
+## Requirements
+
+### System
+
+* Linux distribution (Ubuntu recommended)
+
+### Core Tools
+
+* Python 3
+* Xray
+* Redsocks
+
+### Python Libraries
+
+* pandas
+* requests
+* socks
+* telethon
+* playwright
+
+### Standard Python Modules
+
+* re
+* base64
+* json
+* urllib
+* socket
+* time
+* asyncio
+* subprocess
+* tempfile
+* copy
+
