@@ -1,5 +1,3 @@
----
-
 ## Overview
 
 This project focuses on automating the process of obtaining, validating, and maintaining a **stable and usable internet connection via proxy configurations**. It is designed primarily for environments where direct access to the internet is unstable or restricted.
